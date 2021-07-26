@@ -1,3 +1,6 @@
 shiba-ken
 akita-ken
 tosa-ken
+
+pomeranian
+shiberian haskey
