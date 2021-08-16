@@ -5,6 +5,3 @@ niwatori
 kyukantyo
 inko
 tonbi
-
-swan
-kondle
