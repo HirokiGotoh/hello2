@@ -4,7 +4,8 @@ int main() {
   int aaa = 1;
   
   aaa += 2;
-  aaa +=1 ;
+  aaa +=1;
+  aaa +=2;
   
   return 0;
 }
